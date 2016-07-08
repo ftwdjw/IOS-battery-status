@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B528C681D2F70C200C5291D /* Info.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 1B528C671D2F70C200C5291D /* Info.rtf */; };
 		BFD33B6117A08427007710AB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFD33B6017A08427007710AB /* Foundation.framework */; };
 		BFD33B6317A08427007710AB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFD33B6217A08427007710AB /* CoreGraphics.framework */; };
 		BFD33B6517A08427007710AB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFD33B6417A08427007710AB /* UIKit.framework */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B528C671D2F70C200C5291D /* Info.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Info.rtf; sourceTree = "<group>"; };
 		BF1435BD17B5A2500023F32E /* ReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		BFD33B5D17A08427007710AB /* BatteryStatus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BatteryStatus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFD33B6017A08427007710AB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				BF1435BD17B5A2500023F32E /* ReadMe.txt */,
+				1B528C671D2F70C200C5291D /* Info.rtf */,
 				BFD33B6617A08427007710AB /* BatteryStatus */,
 				BFD33B5F17A08427007710AB /* Frameworks */,
 				BFD33B5E17A08427007710AB /* Products */,
@@ -164,6 +167,7 @@
 			files = (
 				BFEB1F6D17A1E5F900A9D415 /* Localizable.strings in Resources */,
 				BFD33B7717A08427007710AB /* Main_iPad.storyboard in Resources */,
+				1B528C681D2F70C200C5291D /* Info.rtf in Resources */,
 				BFD33B7C17A08427007710AB /* Images.xcassets in Resources */,
 				BFD33B7417A08427007710AB /* Main_iPhone.storyboard in Resources */,
 				BFD33B6B17A08427007710AB /* InfoPlist.strings in Resources */,
